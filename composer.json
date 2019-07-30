@@ -1,0 +1,15 @@
+{
+    "name": "hdg/kidzoutfitters",
+    "authors": [
+        {
+            "name": "Jake Neumann",
+            "email": "jake@thehdg.biz"
+        }
+    ],
+		"minimum-stability": "dev",
+		"require": {
+				"php": ">=5.3.0",
+				"phpish/shopify": "dev-master",
+				"cmcdonaldca/ohShopify.php": "master"
+		}
+}
